@@ -1,0 +1,2 @@
+We require minimum 2 people to work on this app
+Both should have basic knowledge on Git
